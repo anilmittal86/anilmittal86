@@ -49,5 +49,5 @@ I research and write about the intersection of **Symbolic AI** (Knowledge Graphs
 <br />
 
 <div align="center">
-  <i>"If the AI doesn't know you exist, you don't exist."</i>
+  <i>"Build and Learn."</i>
 </div>
